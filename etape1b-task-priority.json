@@ -1,0 +1,10 @@
+{
+  "idCategorie": 1,
+  "categorie": "priorite",
+  "valeurs": [
+    {"id": 1, "label": "Faible", "valeur": "faible"},
+    {"id": 2, "label": "Moyenne", "valeur": "moyenne"},
+    {"id": 3, "label": "Importante", "valeur": "importante"},
+    {"id": 4, "label": "Urgente", "valeur": "urgente"}
+  ]
+}
