@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "title": "Apprendre les bases de JSON",
+  "description": "Comprendre la structure des données JSON pour créer une application To-Do List",
+  "dateCreation": "2025-12-10",
+  "dateEcheance": "2025-12-15",
+  "statut": "en cours"
+}
