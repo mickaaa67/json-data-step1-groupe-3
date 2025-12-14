@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "application": "To Do List - Math Info",
+    "groupe": "Groupe 3",
+    "auteurs": ["Mickael", "Mikaïl"],
+    "dateCreation": "2025-12-10",
+    "version": "1.0"
+  },
+  "priorites": {
+    "categorie": "priorite",
+    "valeurs": [
+      { "id": 1, "label": "Faible", "valeur": "faible" },
+      { "id": 2, "label": "Moyenne", "valeur": "moyenne" },
+      { "id": 3, "label": "Importante", "valeur": "importante" },
+      { "id": 4, "label": "Urgente", "valeur": "urgente" }
+    ]
+  },
+  "categories": [
+    { "id": 1, "nom": "Math Info" },
+    { "id": 2, "nom": "Développement Web" },
+    { "id": 3, "nom": "Personnel" }
+  ],
+  "statuts": ["à faire", "en cours", "terminée"],
+  "taches": [
+    {
+      "id": 1,
+      "title": "Apprendre les bases de JSON",
+      "dateCreation": "2025-12-10",
+      "dateEcheance": "2025-12-15",
+      "statut": "en cours",
+      "priorite": "importante",
+      "categorieId": 1,
+      "tags": ["important"]
+    }
+  ]
+}
