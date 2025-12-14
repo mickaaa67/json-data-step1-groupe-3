@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nom": "Math Info",
+      "description": "Travaux liés au module Math Info"
+    },
+    {
+      "id": 2,
+      "nom": "Développement Web",
+      "description": "Projets HTML, CSS, JavaScript"
+    },
+    {
+      "id": 3,
+      "nom": "Personnel",
+      "description": "Tâches personnelles"
+    }
+  ],
+  "statuts": [
+    "à faire",
+    "en cours",
+    "terminée"
+  ],
+  "tags": [
+    "urgent",
+    "important",
+    "optionnel"
+  ]
+}
