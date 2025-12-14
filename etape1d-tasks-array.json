@@ -1,0 +1,26 @@
+{
+  "taches": [
+    {
+      "id": 1,
+      "title": "Apprendre les bases de JSON",
+      "description": "Comprendre la structure des données JSON",
+      "dateCreation": "2025-12-10",
+      "dateEcheance": "2025-12-15",
+      "statut": "en cours",
+      "priorite": "importante",
+      "categorieId": 1,
+      "tags": ["important"]
+    },
+    {
+      "id": 2,
+      "title": "Compléter les étapes 1C à 1E",
+      "description": "Finaliser la structure JSON de la To Do List",
+      "dateCreation": "2025-12-11",
+      "dateEcheance": "2025-12-18",
+      "statut": "à faire",
+      "priorite": "urgente",
+      "categorieId": 2,
+      "tags": ["urgent"]
+    }
+  ]
+}
